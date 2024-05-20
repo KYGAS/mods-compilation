@@ -1,0 +1,10 @@
+{
+    "main": "index.js",
+    "type": "commonjs",
+    "name": "ModCompilation",
+    "version": "1.0.0",
+    "keywords": [],
+    "author": "KYGAS",
+    "license": "ISC",
+    "description": "Compilation of QOL mods for my guildies."
+  }

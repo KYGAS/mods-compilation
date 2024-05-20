@@ -1,0 +1,16 @@
+{
+    "name": "ModsComp",
+    "author": "KYGAS",
+    "license": "ISC",
+    "description": "Compilation of mods for the guild.",
+    "version": "1",
+    "options": {
+        "cliName": "ModsComp",
+        "guiName": "ModsComp",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "./settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/kygas/mods-compilation/master/"],
+    "disableAutoUpdate": false
+}
